@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+guagua;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+I'm+guagua;Full-Stack+Developer;.NET+%26+ABP+Framework+Enthusiast;Java+%26+Kotlin+Lover;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
 
-### 👨‍💻 A passionate frontend developer from China
+### 👨‍💻 A passionate full-stack developer from China
 
 [![GitHub followers](https://img.shields.io/github/followers/youyoupum?style=for-the-badge&logo=github&labelColor=1a1a1a&color=667eea)](https://github.com/youyoupum)
 [![GitHub stars](https://img.shields.io/github/stars/youyoupum?style=for-the-badge&logo=github&labelColor=1a1a1a&color=667eea)](https://github.com/youyoupum)
@@ -21,17 +21,31 @@
 ```javascript
 const guagua = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "React"],
-  learning: ["React", "Node.js", "Next.js", "Vue.js"],
-  interests: ["Frontend Development", "Web Design", "UI/UX"],
+  code: ["C#", ".NET", "Java", "Kotlin", "JavaScript", "TypeScript", "HTML", "CSS", "React"],
+  learning: [".NET", "ABP Framework", "Spring Boot", "Ktor", "React", "Node.js", "Next.js", "Vue.js", "Android Development"],
+  interests: ["Backend Development", "Frontend Development", "Mobile App Development", "Web Design", "UI/UX"],
   currentlyWorkingOn: "React NotePad Project",
-  funFact: "I love coding and learning new technologies! 💻"
+  backendSkills: [".NET", "ABP Framework", "C#", "Java", "Kotlin", "Spring Boot", "Spring Framework"],
+  frontendSkills: ["React", "Vue.js", "JavaScript", "TypeScript"],
+  mobileSkills: ["Android", "Kotlin", "Java"],
+  funFact: "I love coding and learning new technologies! 💻 Full-stack enthusiast!"
 };
 ```
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ABP Framework](https://img.shields.io/badge/ABP_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,11 +55,19 @@ const guagua = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
+### Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
@@ -63,12 +85,15 @@ const guagua = {
 
 ---
 
-## 🎯 Currently Working On
+## 📚 Currently Learning & Improving
 
-- 🔭 **React NotePad** - A full-featured note-taking application built with React
-- 🌱 Learning **React Hooks**, **Zustand**, and **React Router**
-- 👯 Looking to collaborate on **open source projects**
-- 🤔 Looking for help with **backend development**
+- 🌱 **Backend Development** - Deepening knowledge in .NET, ABP Framework, and Spring Boot to build robust enterprise applications
+- 🔧 **API Development** - Learning best practices for designing and developing RESTful APIs with .NET, ABP Framework, and Spring Boot
+- 📱 **Mobile Development** - Exploring Android development with Kotlin to expand my mobile development skills
+- 💻 **Frontend Technologies** - Improving React skills with Hooks, Zustand, React Router, and modern frontend patterns
+- 🏗️ **Architecture & Design Patterns** - Studying software architecture, design patterns, and best practices to enhance code quality
+- 🚀 **Full-Stack Development** - Continuously learning to become a better full-stack developer and improve overall development capabilities
+- 📖 **Best Practices** - Focusing on code quality, testing, and modern development practices to deliver better solutions
 
 ---
 
@@ -80,6 +105,15 @@ A modern note-taking application with Markdown support, theme switching, and mor
 **Tech Stack:** React, Zustand, React Router, TypeScript
 
 [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youyoupum/ReactNotePad)
+
+---
+
+### 🚀 Backend Projects
+Building robust backend services and enterprise applications with .NET, ABP Framework, Java, and Kotlin.
+
+**Tech Stack:** .NET, ABP Framework, C#, Java, Kotlin, Spring Boot, Spring Framework, Ktor
+
+*More projects coming soon...*
 
 ---
 
@@ -114,7 +148,11 @@ A modern note-taking application with Markdown support, theme switching, and mor
 
 ## 💬 Ask Me About
 
+- 🖥️ **Backend Development** - .NET, ABP Framework, C#, Java, Kotlin, Spring Boot, Spring Framework
+- 🔧 **.NET & ABP Framework** - Enterprise application development, best practices, and modern patterns
+- ☕ **Java & Kotlin** - Best practices, frameworks, and modern development
 - 💻 **Frontend Development** - React, Vue, JavaScript, TypeScript
+- 📱 **Mobile Development** - Android, Kotlin, Java
 - 🎨 **Web Design** - UI/UX, CSS, Responsive Design
 - 📚 **Learning** - Best practices, coding tips, and more
 - 🤝 **Collaboration** - Open source projects, team work
@@ -124,8 +162,11 @@ A modern note-taking application with Markdown support, theme switching, and mor
 ## ⚡ Fun Facts
 
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I love coding and learning new technologies!
-- 🎯 **Goal:** To become a better developer every day
+- ⚡ **Fun fact:** I love coding and learning new technologies! Full-stack enthusiast!
+- 🎯 **Goal:** To become a better full-stack developer every day
+- 🔷 **.NET Enthusiast:** Love the power and versatility of .NET and ABP Framework
+- ☕ **Java Enthusiast:** Love the power and versatility of Java
+- 🚀 **Kotlin Lover:** Appreciate Kotlin's modern syntax and null safety
 - 🌟 **Quote:** "Code is like humor. When you have to explain it, it's bad."
 
 ---
