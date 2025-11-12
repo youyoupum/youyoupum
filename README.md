@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+I'm+guagua;Full-Stack+Developer;.NET+%26+ABP+Framework+Enthusiast;Java+%26+Kotlin+Lover;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:667EEA,764BA2&height=65&section=header&text=&animation=twinkling&fontSize=42" alt="Header" />
+</div>
+
 ---
 
 <div align="center">
@@ -16,7 +20,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:667EEA,764BA2&height=65&section=header&text=&animation=twinkling&fontSize=42" alt="Divider" />
+</div>
+
 ## 🚀 About Me
+
+<div align="center">
 
 ```javascript
 const guagua = {
@@ -32,11 +42,16 @@ const guagua = {
 };
 ```
 
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+<div align="center">
+
+### 💻 Backend Technologies
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ABP Framework](https://img.shields.io/badge/ABP_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -47,7 +62,8 @@ const guagua = {
 ![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Frontend
+### 🎨 Frontend Technologies
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,12 +71,14 @@ const guagua = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### Mobile
+### 📱 Mobile Development
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### Tools & Others
+### 🛠️ Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -70,22 +88,30 @@ const guagua = {
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youyoupum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyoupum&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youyoupum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youyoupum&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&border_radius=10"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=youyoupum&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=youyoupum&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA&border_radius=10" alt="GitHub Streak" />
+
 </div>
 
 ---
 
 ## 📚 Currently Learning & Improving
+
+<div align="left">
 
 - 🌱 **Backend Development** - Deepening knowledge in .NET, ABP Framework, and Spring Boot to build robust enterprise applications
 - 🔧 **API Development** - Learning best practices for designing and developing RESTful APIs with .NET, ABP Framework, and Spring Boot
@@ -95,11 +121,16 @@ const guagua = {
 - 🚀 **Full-Stack Development** - Continuously learning to become a better full-stack developer and improve overall development capabilities
 - 📖 **Best Practices** - Focusing on code quality, testing, and modern development practices to deliver better solutions
 
+</div>
+
 ---
 
 ## 💻 Featured Projects
 
+<div align="left">
+
 ### 📝 React NotePad
+
 A modern note-taking application with Markdown support, theme switching, and more.
 
 **Tech Stack:** React, Zustand, React Router, TypeScript
@@ -109,31 +140,38 @@ A modern note-taking application with Markdown support, theme switching, and mor
 ---
 
 ### 🚀 Backend Projects
+
 Building robust backend services and enterprise applications with .NET, ABP Framework, Java, and Kotlin.
 
 **Tech Stack:** .NET, ABP Framework, C#, Java, Kotlin, Spring Boot, Spring Framework, Ktor
 
 *More projects coming soon...*
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youyoupum&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667EEA&line=667EEA&point=667EEA" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youyoupum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youyoupum&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667EEA&line=667EEA&point=667EEA&area=true&area_color=667EEA&radius=8" alt="GitHub Activity Graph" />
+
 </div>
 
 ---
 
-## 📫 How to Reach Me
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=youyoupum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -148,6 +186,8 @@ Building robust backend services and enterprise applications with .NET, ABP Fram
 
 ## 💬 Ask Me About
 
+<div align="left">
+
 - 🖥️ **Backend Development** - .NET, ABP Framework, C#, Java, Kotlin, Spring Boot, Spring Framework
 - 🔧 **.NET & ABP Framework** - Enterprise application development, best practices, and modern patterns
 - ☕ **Java & Kotlin** - Best practices, frameworks, and modern development
@@ -157,9 +197,13 @@ Building robust backend services and enterprise applications with .NET, ABP Fram
 - 📚 **Learning** - Best practices, coding tips, and more
 - 🤝 **Collaboration** - Open source projects, team work
 
+</div>
+
 ---
 
 ## ⚡ Fun Facts
+
+<div align="left">
 
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love coding and learning new technologies! Full-stack enthusiast!
@@ -169,25 +213,38 @@ Building robust backend services and enterprise applications with .NET, ABP Fram
 - 🚀 **Kotlin Lover:** Appreciate Kotlin's modern syntax and null safety
 - 🌟 **Quote:** "Code is like humor. When you have to explain it, it's bad."
 
+</div>
+
 ---
 
 ## 🎨 Random Dev Quote
 
 <div align="center">
+  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Feel+free+to+reach+out+if+you+want+to+collaborate." alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+reach+out+if+you+want+to+collaborate.;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
   
   ### ⭐️ From [guagua](https://github.com/youyoupum)
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=667EEA&height=100&section=footer&text=Have%20a%20nice%20day!%20👋&fontSize=30&fontColor=fff" alt="Footer" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:667EEA,764BA2&height=120&section=footer&text=Have%20a%20nice%20day!%20👋&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=40" alt="Footer" />
+  
 </div>
 
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:667EEA,764BA2&height=65&section=header&text=&animation=twinkling&fontSize=42" alt="Bottom Divider" />
+  
+</div>
